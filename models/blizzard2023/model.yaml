@@ -1,0 +1,5 @@
+description: Model built using the two speakers in the Blizzard Challange 2023
+language: fr
+phonemizer: sentence
+synthesis: cubegan
+version: 1.0.0
