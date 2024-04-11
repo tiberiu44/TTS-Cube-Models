@@ -1,0 +1,5 @@
+description: 'English voice built using the EN-HIFI Dataset'
+language: en
+phonemizer: sentence
+synthesis: cubegan
+version: 1.0.0
